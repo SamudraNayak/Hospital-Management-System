@@ -35,7 +35,7 @@ Q4. Extra information that needs to be added.
                                      *  What types of treatments should be provided to a patient?
                                   2.  What are the factors that should be considered while adding a patient’s entry?    
                                      *  Should the update of the patients’ age be automated?
-          Output Specifications:- 1. Should filters be added to make it easier to search for a record?
+         Output Specifications:- 1. Should filters be added to make it easier to search for a record?
                                      *  Should the status of daily check up of a patient be shown?
                                      *  Should there be a pass-key to make a record safe and secure?
                                      *  If a user forgets his/her password, can it be retrieved by a hint question?
