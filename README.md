@@ -4,7 +4,8 @@ Q1. What is the project all about?
     Ans: This mini project contains limited features, but the essential ones. The features of this simple system, the user can add
     patient details by entering his/her name, disease name, phone number, cabin number etc. The user can also view all the  
     available patient records with its details and search a patient by its name, age, disease, cabin number. Besides, the                    
-    user can edit information as well as remove a patient's whole date or only his/her name, phone number, disease name, cabin              number.
+    user can edit information as well as remove a patient's whole date or only his/her name, phone number, disease name, cabin         
+    number.
 
 Q2. How to execute the code?
     
