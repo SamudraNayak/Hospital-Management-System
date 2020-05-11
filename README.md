@@ -19,12 +19,16 @@ Q2. How to execute the code?
      
      Step 2: We can start executing by choosing option 1 to add information about a patient. Under that we can add the patient's name,
      age, disease, cabin number, phone number. 
+     
      Step 3: To view all the record details that have been added, we can choose option 2.
+     
      Step 4: If a user wants to view the details of a particular record he can choose option 3. After choosing, the user is asked to
      enter the name of the patient whose record they wish to view.
+     
      Step 5: If a user wants to edit a patient's record he can simply choose option 4. He can choose what he wants to edit from the
      list containing name, disease, age, cabin number, phone number. Then he can enter the serial number of the patient whose
      record he wishes to edit. In the end the user can enter the new information that he would like to save to the record.
+     
      Step 6: The user can choose option 5 to delete record details. First the user will be asked for the serial number of the patient
      whose record details need to be deleted, then there will be a list of options from which the user can choose what to
      delete which contains the whole record,name, disease, age, cabin number, phone number. At last the user can view the edited 
