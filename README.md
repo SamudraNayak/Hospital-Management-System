@@ -10,12 +10,12 @@ Q1. What is the project all about?
 Q2. How to execute the code?
     
     Ans: 
-    Step 1: On execution, the options that are provided to a user include,
-            1. Adding a record
-            2. Viewing records
-            3. Searching for a particular record
-            4. Editing a record
-            5. Deleting record details
+     Step 1: On execution, the options that are provided to a user include,
+             1. Adding a record
+             2. Viewing records
+             3. Searching for a particular record
+             4. Editing a record
+             5. Deleting record details
      
      Step 2: We can start executing by choosing option 1 to add information about a patient. Under that we can add the patient's name,
      age, disease, cabin number, phone number. 
